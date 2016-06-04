@@ -1,1 +1,3 @@
-# juici.github.io
+# Juici Development Website
+
+Collection of development projects.
