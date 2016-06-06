@@ -1,3 +1,4 @@
-# Juici Development Website
+Juici Development Website
+=========================
 
-Collection of development projects.
+My developer website.
