@@ -1,4 +1,1 @@
-Juici Development Website
-=========================
-
-My developer website.
+*nothing to see here, move along*
