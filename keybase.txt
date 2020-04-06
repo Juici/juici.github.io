@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/juici
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://juici.io
+  * I am juici (https://keybase.io/juici) on keybase.
+  * I have a public key ASCBvZjyKm2VEz8JE4rTn1wd5ubCZYjZKBYtnqaIuxbMnQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ae5d7f87f4cee054e32898ff2f3029a49392755c17416788b3e9fb91fa177a5a0a",
+      "host": "keybase.io",
+      "kid": "012081bd98f22a6d95133f09138ad39f5c1de6e6c26588d928162d9ea688bb16cc9d0a",
+      "uid": "bb23c3cb1e3c5240a59ff499e2350d19",
+      "username": "juici"
+    },
+    "merkle_root": {
+      "ctime": 1586201448,
+      "hash": "d10366640028476a4b75403cf5b0dbadb40591b2f8d5017fe54ce2cd21276cfcc0269f0a99098aab85b18f4175a52a88876970ca4788fed0ecfaeca8b27361c5",
+      "hash_meta": "6a25dc5fdf683bb1766b060dcbabf6728d28e1073cc2d6f97a9030c97180bd2a",
+      "seqno": 15800219
+    },
+    "service": {
+      "entropy": "T8Yc21voEHcwF6enT25IpPMk",
+      "hostname": "juici.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1586201451,
+  "expire_in": 504576000,
+  "prev": "745da25021d52e1bf7435537e9d1c805c8bf3dde4c55ddc995c6b775cc9e2fb3",
+  "seqno": 46,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggb2Y8iptlRM/CROK059cHebmwmWI2SgWLZ6miLsWzJ0Kp3BheWxvYWTESpcCLsQgdF2iUCHVLhv3Q1U36dHIBci/Pd5MVd3Jlca3dcyeL7PEIAz5cpJTZocP6BwupQob14Z3eIYCdY6xGM4SHbi75fpFAgHCo3NpZ8RAHMF7pgNtxqWzIFICZqLdUySvYP7kcnUNQT0XE+PCxhqEVUR+W/xRLqe5TRbCHkO4YMBEq9wR4mSF8pLzuRtOAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP+pyipM7s7s76JNB9tGAg0E9tEaY4/+XZS6zUhPFtpQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/juici
+
+==================================================================
